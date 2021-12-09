@@ -1,0 +1,625 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title></title>
+<meta name="renderer" content="webkit">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport"
+	content="width=device-width, initial-scale=1, maximum-scale=1">
+<link rel="stylesheet" href="css/layui.css" media="all">
+<link rel="stylesheet" href="img/style.css" />
+
+<script src="js/jquery.min.js"></script>
+
+
+<script src="js/script.js"></script>
+<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="./css/fz-video.css">
+<link rel="stylesheet" href="./font/iconfont.css">
+<style type="text/css">
+body {
+	font-family: "微软雅黑";
+	background-color: #292929;
+}
+
+#testBox {
+	width: 900px;
+	height: 580px;
+	margin: 0 auto;
+	float: left;
+}
+
+* {
+	padding: 0;
+	margin: 0
+}
+
+body {
+	background-color: #eee;
+}
+
+.test {
+	width: 540px;
+	margin: 40px auto 0
+}
+
+lq {
+  
+	width: 180px;
+	height: 180px;
+	float: left;
+	list-style: none
+}
+
+lx {
+	float: left;
+	list-style: none
+}
+
+lq img {
+	width: 140px;
+	height: 140px;
+	box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+	-webkit-transition: all ease .3s;
+	transition: all ease .5s;
+}
+
+lq img:hover {
+	-webkit-transform: scale(1.05);
+	transform: scale(3.05);
+	box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+	border-radius: 50%
+}
+
+#tp {
+	overflow-x: auto;
+	overflow-y: auto;
+}
+
+* {
+	padding: 0px
+}
+
+#gallery img {
+	border: none;
+}
+
+#gallery_nav {
+	float: right;
+	width: 445px;
+	text-align: center;
+}
+
+#gallery_nav a {
+	display: table-cell;
+	height: 50px;
+}
+
+#gallery_output {
+	float: left;
+	width: 460px;
+	overflow: hidden;
+	text-align: center;
+}
+
+#gallery_content {
+	float: right;
+	width: 450px;
+	text-align: center;
+}
+
+#gallery_output img {
+	display: block;
+	margin: 0px auto 0 auto;
+}
+
+#gallery_output p {
+	display: block;
+	margin: 0px auto 0 auto;
+	text-align: center;
+}
+
+.zz {
+	border: 1px solid rgba(92, 92, 92, 1.00);
+}
+
+.sp {
+	font-size: 24px;
+}
+
+.ss {
+	border-top: 1px solid #000000;
+	width: 50%;
+	display: inherit;
+	padding-top: 10px;
+}
+</style>
+
+<script language="javascript">
+	$(document).ready(function() {
+		$("#gallery_output img").not(":first").hide();
+		$("#gallery_content p").not(":first").hide();
+		$("#gallery a").click(function() {
+			$("#gallery a").removeClass('zz');
+			$(this).addClass("zz");
+			if ($("#" + this.rel).is(":hidden")) {
+				$("#gallery_output img").slideUp();
+				$("#gallery_content p").slideUp();
+				$("#" + this.rel).slideDown();
+				$("#p" + this.rel).slideDown();
+			}
+		});
+	});
+</script>
+
+
+<!-- 注意：如果你直接复制所有代码到本地，上述css路径需要改成你本地的 -->
+</head>
+<body>
+
+
+	<div class="layui-row">
+		<div class="layui-col-xs12 layui-col-md12">
+			<div class="grid-demo grid-demo-bg1">
+
+				<ul class="layui-nav layui-bg-green ">
+					<li class="layui-nav-item" layui-this><a href="index.html"><img
+							src="img/LOGO.png"></a></li>
+					<li class="layui-nav-item "><a href=""></a></li>
+					<li class="layui-nav-item"><a href=""></a></li>
+
+					<li class="layui-nav-item"><a href="Application.html">报考我校</a></li>
+					<li class="layui-nav-item "><a href="student.jsp">学生服务</a></li>
+					<li class="layui-nav-item"><a
+						href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=AjM0MzYyOjQ1NDNCc3MsYW1v"
+						target="_blank">校长信箱</a></li>
+					<li class="layui-nav-item"><a href="LOGIN.html">教务系统</a>
+						<dl class="layui-nav-child">
+							<dd>
+								<a href="LOGIN.html">用户登录</a>
+							</dd>
+							<dd>
+								<a href="register.html">用户注册</a>
+							</dd>
+							<dd>
+								<a
+									href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=AjM0MzYyOjQ1NDNCc3MsYW1v"
+									target="_blank">用户反馈</a>
+							</dd>
+						</dl></li>
+					<li class="layui-nav-item"><a href="Console.jsp">控制台</a></li>
+				</ul>
+
+			</div>
+		</div>
+
+
+
+		<div class="layui-col-xs6 layui-col-md12" text align="center" id="tp">
+			<div class="grid-demo grid-demo-bg2">
+
+				<div class="layui-carousel" id="test1">
+					<div carousel-item>
+						<div>
+							<img src="img/b.jpg">
+						</div>
+						<div>
+							<img src="img/c.jpg">
+						</div>
+						<div>
+							<img src="img/a.jpg">
+						</div>
+
+					</div>
+				</div>
+
+				<script src="layui.js"></script>
+				<script>
+					layui.use('carousel', function() {
+						var carousel = layui.carousel;
+						//建造实例
+						carousel.render({
+							elem : '#test1',
+							width : '100%' //设置容器宽度
+						//  ,arrow: 'always' //始终显示箭头
+						//,anim: 'updown' //切换动画方式
+						});
+					});
+				</script>
+
+				<!--	移动：6/12、桌面：12/12-->
+
+			</div>
+		</div>
+
+	</div>
+
+
+	<div class="layui-container">
+		<!--	中框架12/12-->
+
+		<div class="layui-row">
+			<div class="layui-col-md10">
+				<div class="layui-tab">
+					<div class="layui-tab layui-tab-brief" lay-filter="docDemoTabBrief">
+						<ul class="layui-tab-title">
+							<li >校园风光</li>
+							<li class="layui-this">华夏新闻</li>
+							<li>媒体华夏</li>
+                            <li>系统说明文档与要求 </li>
+						</ul>
+						<div class="layui-tab-content" style="height: 100px;">
+							<div class="layui-tab-item ">
+                             <br/>
+                             <br/>
+								<div>
+									<ul>
+										<lq>
+										<a href="#"><img src="img/a1.png" width="140" height="80"
+											alt=""></a></lq>
+										<lq>
+										<a href="#"><img src="img/a2.png" width="140" height="80"
+											alt=""></a></lq>
+										<lq>
+										<a href="#"><img src="img/a3.png" width="140" height="80"
+											alt=""></a></lq>
+										<lq>
+										<a href="#"><img src="img/a4.png" width="140" height="80"
+											alt=""></a></lq>
+										<lq>
+										<a href="#"><img src="img/a5.png" width="140" height="80"
+											alt=""></a></lq>
+										<lq>
+										<a href="#"><img src="img/a6.png" width="140" height="80"
+											alt=""></a></lq>
+										<lq>
+										<a href="#"><img src="img/a12.jpg" width="140" height="80"
+											alt=""></a></lq>
+										<lq>
+										<a href="#"><img src="img/a13.jpg" width="140" height="80"
+											alt=""></a></lq>
+										<lq>
+										<a href="#"><img src="img/a14.jpg" width="140" height="80"
+											alt=""></a></lq>
+										<lq>
+										<a href="#"><img src="img/a15.jpg" width="140" height="80"
+											alt=""></a></lq>
+										<lq>
+										<a href="#"><img src="img/a16.jpg" width="140" height="80"
+											alt=""></a></lq>
+										<lq>
+										<a href="#"><img src="img/a17.jpg" width="140" height="80"
+											alt=""></a></lq>
+										<lq>
+										<a href="#"><img src="img/a18.jpg" width="140" height="80"
+											alt=""></a></lq>
+										<lq>
+										<a href="#"><img src="img/a20.jpg" width="140" height="80"
+											alt=""></a></lq>
+										<lq>
+										<a href="#"><img src="img/a19.jpg" width="140" height="80"
+											alt=""></a></lq>
+									</ul>
+								</div>
+							</div>
+
+
+							<div class="layui-tab-item layui-show">
+
+
+								<h1>今日头条</h1>
+
+								<p>图片 ：美华 文案 ：Meihua</p>
+
+
+								<div id="gallery">
+									<div id="gallery_nav">
+										<a rel="img1" href="javascript:;"><img
+											src="img/iphone_1.jpg" /></a> <a rel="img2" href="javascript:;"><img
+											src="img/iphone_2.jpg" /></a> <a rel="img3" href="javascript:;"><img
+											src="img/iphone_3.jpg" /></a> <a rel="img4" href="javascript:;"><img
+											src="img/iphone_4.jpg" /></a>
+									</div>
+
+									<div id="gallery_output">
+										<img id="img1" src="img/iphone_1b.jpg" /> <img id="img2"
+											src="img/iphone_2b.jpg" /> <img id="img3"
+											src="img/iphone_3b.jpg" /> <img id="img4"
+											src="img/iphone_4b.jpg" />
+									</div>
+									<div id="gallery_content">
+										<p id="pimg1">
+											<span class="sp">我校机器人团队荣获全国特等奖！</span></br> <span class="ss"></span>
+											2018年11月2至4日，第八届中国教育机器人大赛在桂林电子科技大学北海校区举办。我校信息工程学院学生团队凭借项目的新颖创意和技术优势，一举斩获标准赛高铁游中国项目特等奖，打破了本项目的大赛记录，同时刷新了我校学子参加该比赛的历史最好成绩。
+										</p>
+										<p id="pimg2">
+											<span class="sp">项目：机器人高铁游中国</span></br> <span class="ss">项目队长美华同学的获奖感言</span>
+											大三的我逐渐变得成熟，是实验室里为数不多的技术担当，实验室的圆桌会议上，我自荐为启航一队队长，担任机器人高铁游中国项目组、机器人高铁游中国是一个考察算法，代码设计，逻辑设计很强的一个项目，并且我采用比较出色的STM32位处理器，相比应用范围广成熟的C51，STM32性能更强背后的代价是更大的付出，为此花了大量时间在逻辑设计、代码结构设计，机器人测试上
+											，从暑假到10月国庆，没有回家，终于11月5日，群雄逐鹿，启航一队在桂林电子科技大学斩获该项目冠军。
+
+
+										</p>
+										<p id="pimg3">
+											<span class="sp">项目：智能停车场</span></br> <span class="ss">成绩：全国创新特等奖</span>
+											为备战此次大赛，我校信息工程学院院长王敏教授指导学院青年教师成立了“教育机器人导师团队”。团队的8名老师牺牲近一年的业余时间，与兴趣小组的同学们一起钻研学习，答疑解惑，并在暑期开展强化培训、技术指导以及参赛筹备等工作，全体师生经过数月反复调试和修改，形成最终参赛作品。
+
+											据比赛的指导老师万振武介绍，中国教育机器人大赛是全国A类赛事，因其较强的实践性受到全国高校的广泛关注。
+
+										</p>
+										<p id="pimg4">
+											<span class="ss"> 比赛突发情况</span>
+											由于行程较远，比赛设备部分连线接口松动，师生日夜排查调试，齐心协力攻克难关。赛场上，我校学子与清华大学、南京大学等众多高校的1000多名选手同台竞技，队员们不畏强劲对手，沉着冷静比赛，其参赛项目的机器人创意吸引了众多参赛队伍和观众的眼球，也激发了现场小观众的兴趣与爱好，项目在技术性、应用性和原创性上得到了现场专家评委们的高度评价与认可。
+										</p>
+									</div>
+									<div class="clear"></div>
+
+
+									<span class="layui-badge-dot"></span> <span
+										class="layui-badge-dot layui-bg-orange"></span> <span
+										class="layui-badge-dot layui-bg-green"></span> <span
+										class="layui-badge-dot layui-bg-cyan"></span> <span
+										class="layui-badge-dot layui-bg-blue"></span> <span
+										class="layui-badge-dot layui-bg-black"></span> <span
+										class="layui-badge-dot layui-bg-gray"></span>
+
+									<hr class="layui-bg-green">
+									<h3>比赛项目:中国教育机器人大赛</h3>
+									<h3>
+										获奖团队 ：武汉华夏理工学院启航机器团队 2018年 机器人高铁游中国 智能停车场<span
+											class="layui-badge-dot"> </span>
+									</h3>
+									<h3>
+										特等奖 <span class="layui-badge">9999+</span>
+									</h3>
+
+								</div>
+							</div>
+
+							<div class="layui-tab-item">
+
+								<ul id="testBox">
+
+									<script src="js/fz-video.js" ></script>
+									<script>
+										var FZ_VIDEO = new createVideo(
+												"testBox", //容器的id
+												{
+													url : 'http://www.hxut.edu.cn/uploadfile/hxut/hxutenglish.mp4', //视频地址
+													autoplay : true
+												//是否自动播放
+												});
+									</script>
+									<lx> </lx>
+								</ul>
+
+
+							</div>
+							<div class="layui-tab-item">
+												
+									<h1>项目名称： 武汉华夏理工学院教务管理系统   <span class="layui-badge-dot"> </span> 
+				
+									  </h1>
+									<hr class="layui-bg-green">
+									<h3>需求分析 ：</h3><h4>一个教务管理系统，在设计与制作的过程中使学生能够使用并熟练的运用HTML、JavaScript、Bootcss框架、jQuery技术来制作前端页面，
+									使用JSON来进行前后端的传值、让学生理解中的基本原理，学会使用JDBC来访问数据的技术，同时实现后端与前端交互，使用MVC模式，学会SQL设计增删改查
+									以及后端java代码的功能实现，让学生能够从最简单的系统中，获取最大的收益，了解最全面的知识。
+									  <span
+											class="layui-badge-dot"> </span>
+									</h4>
+									<h3>
+										功能要求  <i class="layui-icon layui-icon-ok" style="font-size: 20px; color: #1E9FFF;"></i>为默认要求   <i class="layui-icon layui-icon-ok" style="font-size: 20px; color: #FF5722;"></i> 为创新特色功能 <span	class="layui-badge-dot"> </span>
+									</h3>
+									<h4>  <i class="layui-icon layui-icon-ok" style="font-size: 20px; color: #1E9FFF;"></i> 管理员登录界面实现（页面 + 后台）
+                                         <br/>
+                                         <i class="layui-icon layui-icon-ok" style="font-size: 20px; color: #1E9FFF;"></i> 显示所有选修课内容
+										<br/>
+                                         <i class="layui-icon layui-icon-ok" style="font-size: 20px; color: #1E9FFF;"></i> 报名选修课界面，根据选修课信息进行报名页面实现。
+<br/>
+                                         <i class="layui-icon layui-icon-ok" style="font-size: 20px; color: #1E9FFF;"></i> 课表显示界面，显示出上课时间，科目与上课老师，教室等。
+<br/>
+                                         <i class="layui-icon layui-icon-ok" style="font-size: 20px; color: #1E9FFF;"></i>课程分类显示出所有报名学生，（Java课程，显示出报名Java的所有学生信息）
+<br/>
+                                         <i class="layui-icon layui-icon-ok" style="font-size: 20px; color: #1E9FFF;"></i>添加选修课程内容界面实现。
+<br/>                                       
+									 <i class="layui-icon layui-icon-ok" style="font-size: 20px; color: #FF5722;"></i>主页交互式相应新闻 视频 音乐 增加用户体验 <span class="layui-badge-dot"> </span> <br/>
+									 
+									  <i class="layui-icon layui-icon-ok" style="font-size: 20px; color: #FF5722;"></i>单页面+选项卡式后台也 一个页面上实现所用后台 最大可能的利用页面范围  也保证了跳转所带来的的安全隐患<span class="layui-badge-dot"> </span>  <br/>
+									  
+									    <i class="layui-icon layui-icon-ok" style="font-size: 20px; color: #FF5722;"></i>追求极致的用户体验 使用便于用户交互式修改与查询方法实现 查询修改 更加直观 快捷 方便 <span class="layui-badge-dot"> </span>  <br/>
+									  
+									    <i class="layui-icon layui-icon-ok" style="font-size: 20px; color: #FF5722;"></i>表单结构化验证  保证数据安全完整性<span class="layui-badge-dot"> </span>  <br/>
+									  
+									   <i class="layui-icon layui-icon-ok" style="font-size: 20px; color: #FF5722;"></i>响应式布局前端页面  大气 美观 内容样式多<span class="layui-badge-dot"> </span>  <br/>
+									  
+									  <i class="layui-icon layui-icon-ok" style="font-size: 20px; color: #FF5722;"></i>多用户系统 自动识别管理员与学生登录 独立用户后台  <span class="layui-badge-dot"> </span>  <br/>
+									  
+									  <i class="layui-icon layui-icon-ok" style="font-size: 20px; color: #FF5722;"></i>使用session缓存技术 实现用户免登录模式 同时加入安全退出 使用更安全方便  避免繁琐的跳转重复登录<span class="layui-badge-dot"> </span>  <br/>
+									  
+									  <i class="layui-icon layui-icon-ok" style="font-size: 20px; color: #FF5722;"></i> Meihua 设计制作 本着严谨的态度 与极高的标准 来对待每一件作品 感谢观看 <span class="layui-badge-dot"> </span>  <br/>
+									  
+									 
+									</h4>
+									
+									
+									
+							
+							</div>
+							<div class="layui-tab-item">内容5</div>
+						</div>
+					</div>
+
+				</div>
+			</div>
+
+
+			<div class="layui-col-md2">
+
+				<fieldset class="layui-elem-field layui-field-title"
+					style="margin-top: 50px;">
+					<legend>精选课程</legend>
+
+
+
+					<hr class="layui-bg-green">
+
+					<div class="layui-tab layui-tab-brief">
+
+						<ul class="layui-tab-title">
+							<li>考研数学</li>
+							<li class="layui-this">讲师：湖北大学博士 张韧<span
+								class="layui-badge-dot"></span></li>
+							<li>热度<span class="layui-badge">999+</span></li>
+						</ul>
+
+					</div>
+					<a href="student.jsp"> <img src="img/math.png"
+                                                alt="主讲教师 ：张韧  教授  武汉大学数学博士 " class="img-rounded">
+
+					</a>
+
+					<div class="layui-tab layui-tab-brief">
+
+						<ul class="layui-tab-title">
+							<li>计算机操作系统</li>
+							<li class="layui-this" >华中科技大学 网络安全 博士 杨铭熙<span class="layui-badge-dot"></span></li>
+							<li>热度<span class="layui-badge">2999+</span></li>
+						</ul>
+
+					</div>
+					<a href="student.jsp"> <img src="img/wangluo.png"
+                                                alt="主讲教师 ：杨铭熙 华中科技大学  网络安全，计算机网络技术博士  " class="img-rounded">
+
+					</a> 
+
+					<div class="layui-tab layui-tab-brief">
+
+						<ul class="layui-tab-title">
+							<li>人性的弱点</li>
+							<li class="layui-this">瓦洛兰大学 Meihua 第一舰队队长<span class="layui-badge-dot"></span></li>
+							<li>热度<span class="layui-badge">8888+</span></li>
+						</ul>
+
+					</div>
+					<a href="student.jsp"> <img src="img/renxing.png"
+                                                alt="主讲教师 ：Meihua 一级教授   瓦罗兰大学 " class="img-rounded">
+					</a>
+
+
+				</fieldset>
+
+			</div>
+
+
+		</div>
+
+
+
+		<script src="//res.layui.com/layui/dist/layui.js" charset="utf-8"></script>
+	
+
+
+		<!-- 选项卡触发事件-->
+		<script>
+			layui.use('element', function() {
+				var $ = layui.jquery, element = layui.element; //Tab的切换功能，切换事件监听等，需要依赖element模块
+
+				//触发事件
+				var active = {
+					tabAdd : function() {
+						//新增一个Tab项
+						element.tabAdd('demo', {
+							title : '新选项' + (Math.random() * 1000 | 0) //用于演示
+							,
+							content : '内容' + (Math.random() * 1000 | 0),
+							id : new Date().getTime()
+						//实际使用一般是规定好的id，这里以时间戳模拟下
+						})
+					},
+					tabDelete : function(othis) {
+						//删除指定Tab项
+						element.tabDelete('demo', '44'); //删除：“商品管理”
+
+						othis.addClass('layui-btn-disabled');
+					},
+					tabChange : function() {
+						//切换到指定Tab项
+						element.tabChange('demo', '22'); //切换到：用户管理
+					}
+				};
+
+				$('.site-demo-active').on('click', function() {
+					var othis = $(this), type = othis.data('type');
+					active[type] ? active[type].call(this, othis) : '';
+				});
+
+				//Hash地址的定位
+				var layid = location.hash.replace(/^#test=/, '');
+				element.tabChange('test', layid);
+
+				element.on('tab(test)', function(elem) {
+					location.hash = 'test=' + $(this).attr('lay-id');
+				});
+
+			});
+		</script>
+
+	</div>
+
+
+	<fieldset class="layui-elem-field layui-field-title"
+		style="margin-top: 50px;">
+		<legend></legend>
+	</fieldset>
+
+	<div style="margin-top: 50px"></div>
+	<!-- footer -->
+	<div class="wave-box">
+		<div class="marquee-box marquee-up" id="marquee-box">
+			<div class="marquee">
+				<div class="wave-list-box" id="wave-list-box1">
+					<ul>
+						<li><img height="60" alt="波浪" src="images/wave_02.png">
+						</li>
+					</ul>
+				</div>
+				<div class="wave-list-box" id="wave-list-box2">
+					<ul>
+						<li><img height="60" alt="波浪" src="images/wave_02.png">
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		<div class="marquee-box" id="marquee-box3">
+			<div class="marquee">
+				<div class="wave-list-box" id="wave-list-box4">
+					<ul>
+						<li><img height="60" alt="波浪" src="images/wave_01.png">
+						</li>
+					</ul>
+				</div>
+				<div class="wave-list-box" id="wave-list-box5">
+					<ul>
+						<li><img height="60" alt="波浪" src="images/wave_01.png">
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="footer">
+
+		<div class="footer-floor2">
+
+			<p>
+				武汉华夏理工学院学生信息管理系统 &nbsp;&nbsp;&nbsp;来自于一位热爱生活的美华同学
+				&nbsp;&nbsp;&nbsp;很高兴认识你~ </br> Copyright © 2019 Meihua <a
+					href="http://www.hxsail.com/jl" target="_blank">风华文化传媒</a>
+			</p>
+		</div>
+	</div>
+	<!-- footer end -->
+
+</body>
+</html>
