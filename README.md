@@ -11,6 +11,12 @@
 2.  [【Java极简计算器】 Java swing ](./calculator/README.md)    
     - 运行截图  
      ![简介](./calculator/home1.png)  
+     
+3.  [【校园教务管理系统】 C# +  Oracle ](./student-management/README.md)    
+    - 运行截图  
+     ![简介](./student-management/home1.png)
+     ![简介](./student-management/window.png)
+     
 
 ##提交反馈
 
