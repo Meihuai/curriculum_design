@@ -5,9 +5,12 @@
 与演示过 上手简单 非常适合二次开发 😁  主要为Java  C# JavaWeb  后续会陆续增加
 
 ##目录
-1.  [【学生信息管理系统】 Javaweb + mysql + tomcat](./student/README.md) 
-- 运行截图
-![简介](./student/home.jpg)
+1.  [【学生信息管理系统】 Javaweb + mysql + tomcat](./student/README.md)   
+    - 运行截图  
+     ![简介](./student/home.jpg)  
+2.  [【Java极简计算器】 Java swing ](./calculator/README.md)    
+    - 运行截图  
+     ![简介](./calculator/home1.png)  
 
 ##提交反馈
 
