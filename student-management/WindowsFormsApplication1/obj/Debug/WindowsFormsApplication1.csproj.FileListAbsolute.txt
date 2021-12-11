@@ -1,0 +1,279 @@
+c:\users\administrator\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\administrator\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\administrator\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\administrator\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Administrator\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrator\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrator\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Administrator\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Administrator\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\大实验\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Administrator\Desktop\大实验\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrator\Desktop\大实验\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Desktop\大实验\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrator\Desktop\大实验\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Desktop\大实验\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\大实验\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Administrator\Desktop\大实验\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Administrator\Desktop\大实验\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Administrator\Desktop\大实验\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Administrator\Desktop\数据库连接\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Administrator\Desktop\数据库连接\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrator\Desktop\数据库连接\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Desktop\数据库连接\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrator\Desktop\数据库连接\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Desktop\数据库连接\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Administrator\Desktop\数据库连接\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Administrator\Desktop\数据库连接\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Administrator\Desktop\数据库连接\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\数据库连接\数据库连接\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Administrator\Desktop\数据库连接\数据库连接\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrator\Desktop\数据库连接\数据库连接\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Desktop\数据库连接\数据库连接\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\数据库连接\数据库连接\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Administrator\Desktop\数据库连接\数据库连接\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Administrator\Desktop\数据库连接\数据库连接\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\Administrator\Desktop\数据库连接\数据库连接\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Administrator\Desktop\数据库连接\数据库连接\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\数据库连接\数据库连接\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\数据库连接\数据库连接\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrator\Desktop\数据库连接\数据库连接\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Desktop\数据库连接\数据库连接\数据库连接\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Administrator\Desktop\数据库连接\数据库连接\数据库连接\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrator\Desktop\数据库连接\数据库连接\数据库连接\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Desktop\数据库连接\数据库连接\数据库连接\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Administrator\Desktop\数据库连接\数据库连接\数据库连接\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Administrator\Desktop\数据库连接\数据库连接\数据库连接\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\Administrator\Desktop\数据库连接\数据库连接\数据库连接\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Administrator\Desktop\数据库连接\数据库连接\数据库连接\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\数据库连接\数据库连接\数据库连接\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrator\Desktop\数据库连接\数据库连接\数据库连接\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Desktop\数据库连接\数据库连接\数据库连接\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\Administrator\Desktop\数据库连接\数据库连接\数据库连接\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\数据库连接\数据库连接\数据库连接\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form5.resources
+C:\Users\Administrator\Desktop\数据库连接\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\数据库连接\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\Administrator\Desktop\数据库连接\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\Administrator\Desktop\数据库连接\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form5.resources
+C:\Users\Administrator\Desktop\数据库连接\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form6.resources
+E:\C#\数据库数据查看\数据库连接\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\C#\数据库数据查看\数据库连接\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\C#\数据库数据查看\数据库连接\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\C#\数据库数据查看\数据库连接\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+E:\C#\数据库数据查看\数据库连接\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\C#\数据库数据查看\数据库连接\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+E:\C#\数据库数据查看\数据库连接\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+E:\C#\数据库数据查看\数据库连接\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+E:\C#\数据库数据查看\数据库连接\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form5.resources
+E:\C#\数据库数据查看\数据库连接\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form6.resources
+E:\C#\数据库数据查看\数据库连接\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\C#\数据库数据查看\数据库连接\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+E:\C#\数据库数据查看\数据库连接\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+E:\C#\数据库数据查看\数据库连接\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CopyComplete
+E:\C#\数据库数据查看\数据库连接\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\C#\数据库数据查看\数据库连接\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Desktop\数据库数据查看\数据库连接\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Administrator\Desktop\数据库数据查看\数据库连接\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrator\Desktop\数据库数据查看\数据库连接\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Desktop\数据库数据查看\数据库连接\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrator\Desktop\数据库数据查看\数据库连接\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Desktop\数据库数据查看\数据库连接\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Administrator\Desktop\数据库数据查看\数据库连接\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Administrator\Desktop\数据库数据查看\数据库连接\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\Administrator\Desktop\数据库数据查看\数据库连接\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\Administrator\Desktop\数据库数据查看\数据库连接\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form5.resources
+C:\Users\Administrator\Desktop\数据库数据查看\数据库连接\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form6.resources
+C:\Users\Administrator\Desktop\数据库数据查看\数据库连接\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Administrator\Desktop\数据库数据查看\数据库连接\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\数据库数据查看\数据库连接\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\数据库数据查看\数据库连接\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\数据库数据查看\数据库连接\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CopyComplete
+C:\Users\Administrator\Desktop\数据库数据查看\数据库连接\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form7.resources
+C:\Users\Administrator\Desktop\数据库数据查看\数据库数据查看\数据库连接\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Administrator\Desktop\数据库数据查看\数据库数据查看\数据库连接\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrator\Desktop\数据库数据查看\数据库数据查看\数据库连接\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Desktop\数据库数据查看\数据库数据查看\数据库连接\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\数据库数据查看\数据库数据查看\数据库连接\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Administrator\Desktop\数据库数据查看\数据库数据查看\数据库连接\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Administrator\Desktop\数据库数据查看\数据库数据查看\数据库连接\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\Administrator\Desktop\数据库数据查看\数据库数据查看\数据库连接\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\Administrator\Desktop\数据库数据查看\数据库数据查看\数据库连接\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form5.resources
+C:\Users\Administrator\Desktop\数据库数据查看\数据库数据查看\数据库连接\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form6.resources
+C:\Users\Administrator\Desktop\数据库数据查看\数据库数据查看\数据库连接\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form7.resources
+C:\Users\Administrator\Desktop\数据库数据查看\数据库数据查看\数据库连接\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Administrator\Desktop\数据库数据查看\数据库数据查看\数据库连接\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\数据库数据查看\数据库数据查看\数据库连接\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\数据库数据查看\数据库数据查看\数据库连接\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CopyComplete
+C:\Users\Administrator\Desktop\数据库数据查看\数据库数据查看\数据库连接\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrator\Desktop\数据库数据查看\数据库数据查看\数据库连接\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Desktop\C#超市管理\数据库数据查看\数据库数据查看\数据库连接\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Administrator\Desktop\C#超市管理\数据库数据查看\数据库数据查看\数据库连接\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrator\Desktop\C#超市管理\数据库数据查看\数据库数据查看\数据库连接\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Desktop\C#超市管理\数据库数据查看\数据库数据查看\数据库连接\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrator\Desktop\C#超市管理\数据库数据查看\数据库数据查看\数据库连接\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Desktop\C#超市管理\数据库数据查看\数据库数据查看\数据库连接\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#超市管理\数据库数据查看\数据库数据查看\数据库连接\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Administrator\Desktop\C#超市管理\数据库数据查看\数据库数据查看\数据库连接\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Administrator\Desktop\C#超市管理\数据库数据查看\数据库数据查看\数据库连接\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\Administrator\Desktop\C#超市管理\数据库数据查看\数据库数据查看\数据库连接\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\Administrator\Desktop\C#超市管理\数据库数据查看\数据库数据查看\数据库连接\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form5.resources
+C:\Users\Administrator\Desktop\C#超市管理\数据库数据查看\数据库数据查看\数据库连接\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form6.resources
+C:\Users\Administrator\Desktop\C#超市管理\数据库数据查看\数据库数据查看\数据库连接\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form7.resources
+C:\Users\Administrator\Desktop\C#超市管理\数据库数据查看\数据库数据查看\数据库连接\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Administrator\Desktop\C#超市管理\数据库数据查看\数据库数据查看\数据库连接\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\1\C#超市管理\数据库数据查看\数据库数据查看\数据库连接\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Administrator\Desktop\1\C#超市管理\数据库数据查看\数据库数据查看\数据库连接\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrator\Desktop\1\C#超市管理\数据库数据查看\数据库数据查看\数据库连接\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Desktop\1\C#超市管理\数据库数据查看\数据库数据查看\数据库连接\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrator\Desktop\1\C#超市管理\数据库数据查看\数据库数据查看\数据库连接\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Desktop\1\C#超市管理\数据库数据查看\数据库数据查看\数据库连接\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\1\C#超市管理\数据库数据查看\数据库数据查看\数据库连接\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Administrator\Desktop\1\C#超市管理\数据库数据查看\数据库数据查看\数据库连接\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Administrator\Desktop\1\C#超市管理\数据库数据查看\数据库数据查看\数据库连接\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\Administrator\Desktop\1\C#超市管理\数据库数据查看\数据库数据查看\数据库连接\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\Administrator\Desktop\1\C#超市管理\数据库数据查看\数据库数据查看\数据库连接\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form5.resources
+C:\Users\Administrator\Desktop\1\C#超市管理\数据库数据查看\数据库数据查看\数据库连接\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form6.resources
+C:\Users\Administrator\Desktop\1\C#超市管理\数据库数据查看\数据库数据查看\数据库连接\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form7.resources
+C:\Users\Administrator\Desktop\1\C#超市管理\数据库数据查看\数据库数据查看\数据库连接\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Administrator\Desktop\1\C#超市管理\数据库数据查看\数据库数据查看\数据库连接\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\1\C#超市管理\数据库数据查看\数据库数据查看\数据库连接\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form8.resources
+C:\Users\Administrator\Desktop\1\C#超市管理\数据库数据查看\数据库数据查看\数据库连接\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form9.resources
+C:\Users\Administrator\Desktop\1\C#超市管理\数据库数据查看\数据库数据查看\数据库连接\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form10.resources
+C:\Users\Administrator\Desktop\1\C#超市管理\数据库数据查看\数据库数据查看\数据库连接\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form11.resources
+C:\Users\Administrator\Desktop\c#\c#\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Administrator\Desktop\c#\c#\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrator\Desktop\c#\c#\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Desktop\c#\c#\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrator\Desktop\c#\c#\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Desktop\c#\c#\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\c#\c#\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Administrator\Desktop\c#\c#\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Administrator\Desktop\c#\c#\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\Administrator\Desktop\c#\c#\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\Administrator\Desktop\c#\c#\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form5.resources
+C:\Users\Administrator\Desktop\c#\c#\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form6.resources
+C:\Users\Administrator\Desktop\c#\c#\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form7.resources
+C:\Users\Administrator\Desktop\c#\c#\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form8.resources
+C:\Users\Administrator\Desktop\c#\c#\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form10.resources
+C:\Users\Administrator\Desktop\c#\c#\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form11.resources
+C:\Users\Administrator\Desktop\c#\c#\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form9.resources
+C:\Users\Administrator\Desktop\c#\c#\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Administrator\Desktop\c#\c#\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\1\c#\c#\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Administrator\Desktop\1\c#\c#\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrator\Desktop\1\c#\c#\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Desktop\1\c#\c#\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrator\Desktop\1\c#\c#\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Desktop\1\c#\c#\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\1\c#\c#\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Administrator\Desktop\1\c#\c#\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Administrator\Desktop\1\c#\c#\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\Administrator\Desktop\1\c#\c#\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\Administrator\Desktop\1\c#\c#\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form5.resources
+C:\Users\Administrator\Desktop\1\c#\c#\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form6.resources
+C:\Users\Administrator\Desktop\1\c#\c#\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form7.resources
+C:\Users\Administrator\Desktop\1\c#\c#\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form8.resources
+C:\Users\Administrator\Desktop\1\c#\c#\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form10.resources
+C:\Users\Administrator\Desktop\1\c#\c#\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form11.resources
+C:\Users\Administrator\Desktop\1\c#\c#\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form9.resources
+C:\Users\Administrator\Desktop\1\c#\c#\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Administrator\Desktop\1\c#\c#\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\1\c#\c#\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form12.resources
+C:\Users\Administrator\Desktop\1\23软件1161胡美华\管理系统\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Administrator\Desktop\1\23软件1161胡美华\管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrator\Desktop\1\23软件1161胡美华\管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Desktop\23软件1161胡美华\超市库存管理系统\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Administrator\Desktop\23软件1161胡美华\超市库存管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrator\Desktop\23软件1161胡美华\超市库存管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Desktop\23软件1161胡美华\超市库存管理系统\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrator\Desktop\23软件1161胡美华\超市库存管理系统\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Desktop\23软件1161胡美华\超市库存管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\23软件1161胡美华\超市库存管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Administrator\Desktop\23软件1161胡美华\超市库存管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form12.resources
+C:\Users\Administrator\Desktop\23软件1161胡美华\超市库存管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Administrator\Desktop\23软件1161胡美华\超市库存管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\Administrator\Desktop\23软件1161胡美华\超市库存管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\Administrator\Desktop\23软件1161胡美华\超市库存管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form5.resources
+C:\Users\Administrator\Desktop\23软件1161胡美华\超市库存管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form6.resources
+C:\Users\Administrator\Desktop\23软件1161胡美华\超市库存管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form7.resources
+C:\Users\Administrator\Desktop\23软件1161胡美华\超市库存管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form8.resources
+C:\Users\Administrator\Desktop\23软件1161胡美华\超市库存管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form10.resources
+C:\Users\Administrator\Desktop\23软件1161胡美华\超市库存管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form11.resources
+C:\Users\Administrator\Desktop\23软件1161胡美华\超市库存管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form9.resources
+C:\Users\Administrator\Desktop\23软件1161胡美华\超市库存管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Administrator\Desktop\23软件1161胡美华\超市库存管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\23软件1161胡美华\超市库存管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form13.resources
+C:\Users\Administrator\Desktop\23软件1161胡美华\超市库存管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form14.resources
+C:\Users\Administrator\Desktop\23软件1161胡美华 - 副本\超市库存管理系统\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Administrator\Desktop\23软件1161胡美华 - 副本\超市库存管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrator\Desktop\23软件1161胡美华 - 副本\超市库存管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Desktop\23软件1161胡美华 - 副本\超市库存管理系统\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrator\Desktop\23软件1161胡美华 - 副本\超市库存管理系统\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Desktop\23软件1161胡美华 - 副本\超市库存管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\23软件1161胡美华 - 副本\超市库存管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Administrator\Desktop\23软件1161胡美华 - 副本\超市库存管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form14.resources
+C:\Users\Administrator\Desktop\23软件1161胡美华 - 副本\超市库存管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form13.resources
+C:\Users\Administrator\Desktop\23软件1161胡美华 - 副本\超市库存管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form12.resources
+C:\Users\Administrator\Desktop\23软件1161胡美华 - 副本\超市库存管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Administrator\Desktop\23软件1161胡美华 - 副本\超市库存管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\Administrator\Desktop\23软件1161胡美华 - 副本\超市库存管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\Administrator\Desktop\23软件1161胡美华 - 副本\超市库存管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form5.resources
+C:\Users\Administrator\Desktop\23软件1161胡美华 - 副本\超市库存管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form7.resources
+C:\Users\Administrator\Desktop\23软件1161胡美华 - 副本\超市库存管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form8.resources
+C:\Users\Administrator\Desktop\23软件1161胡美华 - 副本\超市库存管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form10.resources
+C:\Users\Administrator\Desktop\23软件1161胡美华 - 副本\超市库存管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form11.resources
+C:\Users\Administrator\Desktop\23软件1161胡美华 - 副本\超市库存管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form9.resources
+C:\Users\Administrator\Desktop\23软件1161胡美华 - 副本\超市库存管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Administrator\Desktop\23软件1161胡美华 - 副本\超市库存管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\23软件1161胡美华 - 副本 - 副本\超市库存管理系统\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Administrator\Desktop\23软件1161胡美华 - 副本 - 副本\超市库存管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrator\Desktop\23软件1161胡美华 - 副本 - 副本\超市库存管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Desktop\23软件1161胡美华 - 副本 - 副本\超市库存管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\23软件1161胡美华 - 副本 - 副本\超市库存管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Administrator\Desktop\23软件1161胡美华 - 副本 - 副本\超市库存管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form14.resources
+C:\Users\Administrator\Desktop\23软件1161胡美华 - 副本 - 副本\超市库存管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form13.resources
+C:\Users\Administrator\Desktop\23软件1161胡美华 - 副本 - 副本\超市库存管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form12.resources
+C:\Users\Administrator\Desktop\23软件1161胡美华 - 副本 - 副本\超市库存管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Administrator\Desktop\23软件1161胡美华 - 副本 - 副本\超市库存管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\Administrator\Desktop\23软件1161胡美华 - 副本 - 副本\超市库存管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\Administrator\Desktop\23软件1161胡美华 - 副本 - 副本\超市库存管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form5.resources
+C:\Users\Administrator\Desktop\23软件1161胡美华 - 副本 - 副本\超市库存管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form7.resources
+C:\Users\Administrator\Desktop\23软件1161胡美华 - 副本 - 副本\超市库存管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form8.resources
+C:\Users\Administrator\Desktop\23软件1161胡美华 - 副本 - 副本\超市库存管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form10.resources
+C:\Users\Administrator\Desktop\23软件1161胡美华 - 副本 - 副本\超市库存管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form11.resources
+C:\Users\Administrator\Desktop\23软件1161胡美华 - 副本 - 副本\超市库存管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form9.resources
+C:\Users\Administrator\Desktop\23软件1161胡美华 - 副本 - 副本\超市库存管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Administrator\Desktop\23软件1161胡美华 - 副本 - 副本\超市库存管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\23软件1161胡美华 - 副本 - 副本\超市库存管理系统\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrator\Desktop\23软件1161胡美华 - 副本 - 副本\超市库存管理系统\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Desktop\学生信息管理系统\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Administrator\Desktop\学生信息管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrator\Desktop\学生信息管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Desktop\学生信息管理系统\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrator\Desktop\学生信息管理系统\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Desktop\学生信息管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\学生信息管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Administrator\Desktop\学生信息管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form14.resources
+C:\Users\Administrator\Desktop\学生信息管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form13.resources
+C:\Users\Administrator\Desktop\学生信息管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form12.resources
+C:\Users\Administrator\Desktop\学生信息管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Administrator\Desktop\学生信息管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\Administrator\Desktop\学生信息管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\Administrator\Desktop\学生信息管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form5.resources
+C:\Users\Administrator\Desktop\学生信息管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form7.resources
+C:\Users\Administrator\Desktop\学生信息管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form8.resources
+C:\Users\Administrator\Desktop\学生信息管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form10.resources
+C:\Users\Administrator\Desktop\学生信息管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form11.resources
+C:\Users\Administrator\Desktop\学生信息管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form9.resources
+C:\Users\Administrator\Desktop\学生信息管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Administrator\Desktop\学生信息管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
