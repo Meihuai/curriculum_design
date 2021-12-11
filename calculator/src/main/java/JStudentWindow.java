@@ -13,10 +13,7 @@ public class JStudentWindow extends JFrame {
 
 
     String[] i = new String[5];
-    JComboBox cbxSex;
-    JButton btnComputeTotal, btnComputeAve;
     JLabel lbID, lbName, lbSex, lbAge, lbComputer_Score, lbMath_Score, lbEnglish_Score, lbTotalScore, lbAveScore;
-    JTextField tfID, tfName, tfGender, tfAge, tfComputer_Score, tfMath_Score, tfEnglish_Score, tfTotalScore, tfAveScore;
 
     public JStudentWindow(String[] lishijilu) {
 //构造函数
